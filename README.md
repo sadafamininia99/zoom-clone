@@ -5,7 +5,7 @@ Over the last few months Zoom has been consistently criticized for their poor se
 so I decided to make my own Zoom clone. In this video I show you everything you need to know to create 
 your very own video chat application which supports chat rooms, video chat, and much more.
 
-🧠 <h1> Concepts Covered: </h`>
+ <h1> Concepts Covered: </h1>
 
 - How to use WebRTC
 - How to setup Socket.io
